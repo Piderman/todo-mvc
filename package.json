@@ -1,0 +1,18 @@
+{
+  "description": "Playing around with MVCs",
+  "author": "Matty Collins",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Piderman/"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.3",
+    "gulp-sourcemaps": "^1.5.2",
+    "browser-sync": "~2.8.2",
+    "del": "~1.2.1",
+    "gulp-uglify": "^1.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-concat": "^2.6.0"
+  }
+}

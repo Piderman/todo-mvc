@@ -1,0 +1,11 @@
+node_modules/
+*.zip
+
+# Generated files
+*.css
+.sass-cache/
+
+# MC specific
+*.map
+notes.md
+*.todo
